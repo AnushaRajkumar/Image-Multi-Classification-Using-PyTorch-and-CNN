@@ -18,6 +18,5 @@ The optimizer used is Stochastic Gradient Descent (SGD) with momentum.<br/>
 The training loop iterates over several epochs, performing forward and backward passes.<br/>
 After each epoch, the model’s performance is evaluated on the test dataset.<br/>
 Accuracy and loss metrics are printed to monitor learning progress.<br/>
-The instructor highlights common training pitfalls like overfitting and data imbalance.<br/>
 Finally, the model’s predictions on sample test images are visualized to validate output.<br/>
 
